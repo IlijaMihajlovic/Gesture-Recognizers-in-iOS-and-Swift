@@ -3,4 +3,4 @@ This project shows how to use multiple UIGestureRecognizers subclasses all progr
 
 ___
 ## Example how the UI looks
-<img src="image/GestureRecognizersSketch.jpg" width="100" >
+<img src="Image/GestureRecognizersSketch.jpg" width="100" >
